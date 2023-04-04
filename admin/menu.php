@@ -33,8 +33,8 @@
                                     </a>
                                     <div class="collapse" id="pagesCollapseAuth" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
                                         <nav class="sb-sidenav-menu-nested nav">
-                                            <a class="nav-link" href="login.html">Login</a>
-                                            <a class="nav-link" href="./daftar.php">Register</a>
+                                            <a class="nav-link" href="./login.php">Login</a>
+                                            <a class="nav-link" href="./register.php">Register</a>
                                             <a class="nav-link" href="password.html">Forgot Password</a>
                                         </nav>
                                     </div>
@@ -52,13 +52,17 @@
                                 </nav>
                             </div>
                             <div class="sb-sidenav-menu-heading">Addons</div>
-                            <a class="nav-link" href="charts.html">
+                            <a class="nav-link" href="index.php?url=about">
                                 <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
-                                Charts
+                                About
                             </a>
-                            <a class="nav-link" href="tables.html">
+                            <a class="nav-link" href="index.php?url=contac">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
-                                Tables
+                                Contac
+                            </a>
+                            <a class="nav-link" href="index.php?url=product">
+                                <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
+                                Data
                             </a>
                         </div>
                     </div>
